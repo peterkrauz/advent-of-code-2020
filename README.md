@@ -1,3 +1,5 @@
-## Advent of Code 2020
+# Advent of Code 2020
+![stars](https://progress-bar.dev/29/?scale=50&title=🚂&suffix=/50 "stars")
 
-Here you can find my own solutions for the challenges of [2020's Advent of Code](https://adventofcode.com/2020)
+My solutions for the challenges of 2020's [Advent of Code](https://adventofcode.com/2020)
+
